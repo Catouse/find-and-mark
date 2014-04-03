@@ -1,4 +1,4 @@
 find-and-mark
 =============
 
-A chrome extension 同
+A chrome extension to find some key words and mark them.
